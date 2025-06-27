@@ -12,3 +12,4 @@ Este projeto é um exemplo simples de um carrinho de compras em JavaScript, insp
 - Estrutura modular, separando serviços (`cart.js` e `item.js`)
 - Base de funcionamento assíncrona, preparada para futuras integrações com banco de dados ou API
 
+OBS: Esse projeto foi desenvolvido para eu revisar conceitos de js e aprender um pouco de nodejs :)
